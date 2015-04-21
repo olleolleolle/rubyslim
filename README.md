@@ -2,7 +2,7 @@ Ruby Slim
 =========
 
 This package provides a SliM server implementing the [FitNesse](http://fitnesse.org)
-[SliM protocol](http://fitnesse.org/FitNesse.UserGuide.SliM.SlimProtocol). It allows
+[SliM protocol](http://fitnesse.org/FitNesse.UserGuide.WritingAcceptanceTests.SliM). It allows
 you to write test fixtures in Ruby, and invoke them from a FitNesse test.
 
 
